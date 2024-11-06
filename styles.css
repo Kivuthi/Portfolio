@@ -1,0 +1,29 @@
+body{
+        background-image: url("header.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
+.header{
+        
+              
+              
+        text-align: center;
+        text-decoration: wavy;
+        font-style: italic;
+
+
+}
+h1{
+        color: rgb(207, 200, 221);
+        
+}
+footer{
+        text-align: end;
+        text-align: center;
+        
+}
+body{
+        
+}
+      

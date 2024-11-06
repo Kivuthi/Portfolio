@@ -1,0 +1,18 @@
+body{
+    background-image: url("header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    height: 1px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: line-through;
+    color: brown;
+}
+.text-box{
+    text-align: center;
+
+    
+}

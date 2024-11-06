@@ -1,0 +1,43 @@
+body{
+        background-image: url("header.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: aliceblue;
+        
+}
+
+.container{
+text-align: center;
+-webkit-text-size-adjust: 100%;
+line-height: 1.6;
+font-size: 16px;
+color: #a90e0e;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Arial', sans-serif;
+max-width: 600px;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+gap: 15px;
+
+}
+label{
+    color: rgb(255, 255, 255);
+}
+.message{
+    text-area{
+        
+    }
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
+footer{
+    color: rgb(166, 186, 203);
+    text-align: center;
+}
+.formresponse{
+    
+}
